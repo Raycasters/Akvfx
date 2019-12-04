@@ -17,8 +17,9 @@
   ],
   "dependencies": {
     "com.unity.package-manager-ui": "2.2.0",
-    "com.unity.render-pipelines.high-definition": "6.9.1-preview",
+    "com.unity.render-pipelines.high-definition": "6.9.2-preview",
     "com.unity.ugui": "1.0.0",
+    "com.unity.visualeffectgraph": "6.9.2-preview",
     "jp.keijiro.klak.motion": "1.0.0",
     "org.nuget.system.memory": "4.5.3",
     "com.unity.modules.animation": "1.0.0",
